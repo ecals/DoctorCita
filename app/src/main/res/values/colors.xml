@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#006257</color>
+    <color name="colorPrimaryDark">#005048</color>
+    <color name="colorAccent">#E6E6E6</color>
+
+    <color name="colorPrimaryLogin">#008577</color>
+    <color name="colorPrimaryDarkLogin">#00574B</color>
+    <color name="colorAccentLogin">#D81B60</color>
+
+
+
+    <color name="common_border_color">#ffffff</color>
+    <color name="round_green">#0aea07</color>
+
+
+
+</resources>
+
